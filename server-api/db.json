@@ -1,0 +1,34 @@
+{
+  "places": [
+    {
+      "id": "e48724ac-deb0-414b-8ec4-83d39511522c",
+      "name": "Una National Park",
+      "description": "The highlight of a visit to Una National Park is undoubtedly Štrbački buk, a stunning 25-metre high terraced waterfall surrounded by viewing platforms where crystal clear water cascades into the swirling pools below. This gem is so spectacular it manages to put Plitvice to shame, making it the crown jewel of the entire park."
+    },
+    {
+      "id": "ca4ece39-c772-4514-940a-b13688324802",
+      "name": "Jajce Waterfalls",
+      "description": "The Bosnia road trip continues in Jajce (pronounced yeit-za), and this picturesque, walled city is home to an unforgettable spectacle: the Pliva Waterfall, incredibly found right in the centre of town."
+    },
+    {
+      "id": "b3576239-8b8f-4b7f-b08b-ca8413151051",
+      "name": "Blagaj",
+      "description": "Blagaj Tekija (also known as Blagaj Tekke) dates back nearly six centuries, and was built right on the banks of the green Buna river which makes for a stunning contrast against the building’s whitewashed walls"
+    },
+    {
+      "id": "0080a40c-b994-432f-a1d1-ee85a2c4f63d",
+      "name": "Međugorje",
+      "description": "Do you believe in miracles? Then you’ll fit right in with the thousands of Catholic pilgrims who travel to Medjugorje each year.  In the 1980s, six children playing in the nearby hills returned home to report they’d seen the Virgin Mary and she spoke to them"
+    },
+    {
+      "id": "4d1f0d8b-ace0-437c-9c04-8b4be8e8442b",
+      "name": "Počitelj",
+      "description": "The last stop on your Bosnia tour is a gooder: the tiny village of Pocitelj which dates back to at least the Middle Ages and is under consideration to be designated as a UNESCO World Heritage Site."
+    },
+    {
+      "id": "f23def31-613c-4b13-8682-c7f8c4210d45",
+      "name": "Park Safet Zajko",
+      "description": "In the complex of the former barracks \"Safet Zajko\", a Center for education, sports and recreation was opened, intended for the whole family, pensioners, athletes and recreationists. The center is located in the center of Novi Grad, five minutes away from tram and bus traffic. "
+    }
+  ]
+}
